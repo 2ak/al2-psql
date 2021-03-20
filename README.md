@@ -1,4 +1,4 @@
-# install-al2-psql
+# About al2-psql
 
 amazon-linux-extras supports psql for PostgreSQL 9.6 and 10. This repository provides scripts to install psql for PostgreSQL 13 on Amazon Linux 2 instances (both x86 and ARM).
 
